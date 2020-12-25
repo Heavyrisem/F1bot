@@ -56,4 +56,4 @@ function sendInterResponse(Message: string, interaction: any): void {
     });
 }
 
-Client.login("NzkxNzA5NzgwMjIxNDkzMjU5.X-THMA.GSV0w5lrO9mht5jBoGzsk_EEZDk");
+Client.login("");
